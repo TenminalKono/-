@@ -4,10 +4,6 @@ description: 本文是自考核题目发布以来大家提的问题的一些解�
 
 # 硬件组培训0—— 前期准备与学习路线
 
-​ 电气工程与自动化学院 石铭亮
-
-
-
 ## 0如何提问
 
 * [群里提问的艺术](https://github.com/betaseeker/How-To-Ask-Questions)
