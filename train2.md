@@ -8,6 +8,8 @@ description: >-
 
 # 机协硬件组培训2——Buck DC-DC设计
 
+视频教程已更新至B站[https://www.bilibili.com/video/BV1Lp421o7hk/](https://www.bilibili.com/video/BV1Lp421o7hk/)
+
 #### 1选型流程
 
 | 规格         | 要求                          |
