@@ -10,7 +10,7 @@ description: >-
 
 视频教程已更新至B站[https://www.bilibili.com/video/BV1Lp421o7hk/](https://www.bilibili.com/video/BV1Lp421o7hk/)
 
-#### 1选型流程
+## 1选型流程
 
 | 规格         | 要求                          |
 | ---------- | --------------------------- |
@@ -27,7 +27,7 @@ description: >-
 * 可购买性：首选优信→淘宝→立创上能够直接购买到的芯片，价格合理
 * 直接问学长学姐（抄作业）
 
-#### 2Buck Convertor原理
+## 2Buck Convertor原理
 
 * 大致原理（无需了解细节）
 * 环路与环路面积控制
@@ -36,7 +36,7 @@ description: >-
   * 交变磁场感应交变电场
 * 原理拓扑与实际电路
 
-#### 3芯片数据手册
+## 3芯片数据手册
 
 * 芯片资源
   * [Datesheet芯片数据手册](https://www.ti.com/product/TPS62933?keyMatch=TPS62933)：最重要，每个厂家都会提供，必看
@@ -55,7 +55,7 @@ description: >-
   * PCB布局Layout：参考布局，强烈建议照抄
 * WEBENCH Designer的使用
 
-#### 4原理图及器件选型
+## 4原理图及器件选型
 
 * 输入电容
 * 输出电容
@@ -77,7 +77,7 @@ description: >-
 * 就近原则
 * 紧凑布局
 
-#### 6PCB布线
+## 6PCB布线
 
 * 分类：功率线和信号线
   * 功率线：过大电流的线（地线和电源线）→铺铜
@@ -97,7 +97,7 @@ description: >-
 * 提升功率线路散热方式：开窗
 * 扇热焊盘处所的过孔间隙处所有层不能有信号线穿过
 
-#### 7工程输出与资料整理
+## 7工程输出与资料整理
 
 * [输出gerbera文件](https://blog.csdn.net/weixin\_44215265/article/details/104407634)
 * 板框要复制一遍放到keepout layer
@@ -107,7 +107,9 @@ description: >-
 
 ***
 
-#### 参考资料与延伸阅读
+## 参考资料与延伸阅读
+
+{% file src=".gitbook/assets/硬件组培训2.pptx" %}
 
 * [TPS6293x 采用 SOT583 封装的 3.8V 至 30V、2A/3A 同步降压转换器 数据表 (Rev. D)](https://www.ti.com.cn/cn/lit/gpn/tps62933)
 * [技术活不靠人品:DC-DC电源如何安排好地线?(强烈推荐观看)](https://www.bilibili.com/video/BV1NK411R7bp/)
@@ -115,3 +117,4 @@ description: >-
 * [Optimizing Transient Response of Internally Compensated dc-dc Converters With Feedforward Capacitor](https://www.ti.com/cn/lit/an/slva289b/slva289b.pdf?ts=1706234275657)
 * [AN-2146 Power Design for SDI and other Noise Sensitive Devices](https://www.ti.com/lit/pdf/snoa561)
 * [19届智能车硬件培训之主控板设计](https://www.bilibili.com/video/BV1dm4y1G7qd/)
+
